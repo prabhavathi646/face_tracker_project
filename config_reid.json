@@ -1,0 +1,53 @@
+﻿{
+    "video_source":  {
+                         "type":  "file",
+                         "file_path":  "data/reid_sample.mp4",
+                         "rtsp_url":  "rtsp://username:password@camera-ip:554/stream1",
+                         "reconnect_attempts":  5,
+                         "reconnect_delay_seconds":  2
+                     },
+    "detection":  {
+                      "model_path":  "models/yolov8n-face.pt",
+                      "confidence_threshold":  0.3,
+                      "frame_skip":  2,
+                      "input_size":  640,
+                      "device":  "cpu"
+                  },
+    "recognition":  {
+                        "model_name":  "buffalo_l",
+                        "similarity_threshold":  0.45,
+                        "providers":  [
+                                          "CPUExecutionProvider"
+                                      ],
+                        "det_size":  [
+                                         640,
+                                         640
+                                     ],
+                        "crop_margin":  0.4,
+                        "min_crop_size_px":  160
+                    },
+    "tracking":  {
+                     "max_disappeared_frames":  30,
+                     "iou_match_threshold":  0.3,
+                     "max_distance_px":  120
+                 },
+    "database":  {
+                     "path":  "data/reid_test.db"
+                 },
+    "storage":  {
+                    "entries_dir":  "logs/entries",
+                    "exits_dir":  "logs/exits",
+                    "registered_faces_dir":  "data/registered_faces"
+                },
+    "logging":  {
+                    "log_file":  "events.log",
+                    "log_level":  "INFO",
+                    "console_level":  "INFO"
+                },
+    "processing":  {
+                       "display_window":  false,
+                       "save_output_video":  false,
+                       "output_video_path":  "output/annotated_output.mp4",
+                       "min_face_size_px":  30
+                   }
+}

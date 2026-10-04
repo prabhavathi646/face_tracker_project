@@ -1,0 +1,171 @@
+2026-10-03 00:00:11 | INFO     | face_tracker | Logging initialized -> C:\Users\Admin\AppData\Local\Cline\face_tracker_project\events.log
+2026-10-03 00:00:11 | INFO     | face_tracker | Database schema ready at C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\face_tracker.db
+2026-10-03 00:00:19 | INFO     | face_tracker | YOLO face detector loaded from C:\Users\Admin\AppData\Local\Cline\face_tracker_project\models\yolov8n-face.pt (device=cpu)
+2026-10-03 00:00:28 | INFO     | face_tracker | InsightFace recognizer loaded (model=buffalo_l)
+2026-10-03 00:00:28 | INFO     | face_tracker | Opening video source (file): C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\sample_video.mp4
+2026-10-03 00:00:28 | INFO     | face_tracker | === Face tracker started ===
+2026-10-03 00:00:43 | INFO     | face_tracker | Registered new face FACE-f9d5291f (image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\registered_faces\FACE-f9d5291f_20261003_000043_648079.jpg)
+2026-10-03 00:00:43 | INFO     | face_tracker | Auto-registered new face: FACE-f9d5291f
+2026-10-03 00:00:43 | INFO     | face_tracker | Unique visitor count incremented -> 1 (new: FACE-f9d5291f)
+2026-10-03 00:00:43 | INFO     | face_tracker | ENTRY event | face_id=FACE-f9d5291f track_id=1 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-f9d5291f_20261003_000043_675879.jpg
+2026-10-03 00:00:51 | INFO     | face_tracker | EXIT event | face_id=FACE-f9d5291f track_id=1 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-f9d5291f_20261003_000051_896653.jpg
+2026-10-03 00:01:04 | INFO     | face_tracker | Registered new face FACE-42855f8a (image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\registered_faces\FACE-42855f8a_20261003_000104_976215.jpg)
+2026-10-03 00:01:04 | INFO     | face_tracker | Auto-registered new face: FACE-42855f8a
+2026-10-03 00:01:04 | INFO     | face_tracker | Unique visitor count incremented -> 2 (new: FACE-42855f8a)
+2026-10-03 00:01:05 | INFO     | face_tracker | ENTRY event | face_id=FACE-42855f8a track_id=3 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-42855f8a_20261003_000104_993148.jpg
+2026-10-03 00:01:10 | INFO     | face_tracker | Registered new face FACE-e0a4bb26 (image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\registered_faces\FACE-e0a4bb26_20261003_000110_133627.jpg)
+2026-10-03 00:01:10 | INFO     | face_tracker | Auto-registered new face: FACE-e0a4bb26
+2026-10-03 00:01:10 | INFO     | face_tracker | Unique visitor count incremented -> 3 (new: FACE-e0a4bb26)
+2026-10-03 00:01:10 | INFO     | face_tracker | ENTRY event | face_id=FACE-e0a4bb26 track_id=2 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-e0a4bb26_20261003_000110_156931.jpg
+2026-10-03 00:01:44 | INFO     | face_tracker | EXIT event | face_id=FACE-e0a4bb26 track_id=2 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-e0a4bb26_20261003_000144_575794.jpg
+2026-10-03 00:01:45 | INFO     | face_tracker | EXIT event | face_id=FACE-42855f8a track_id=3 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-42855f8a_20261003_000145_849823.jpg
+2026-10-03 00:02:02 | INFO     | face_tracker | Registered new face FACE-8e8157a8 (image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\registered_faces\FACE-8e8157a8_20261003_000202_252915.jpg)
+2026-10-03 00:02:02 | INFO     | face_tracker | Auto-registered new face: FACE-8e8157a8
+2026-10-03 00:02:02 | INFO     | face_tracker | Unique visitor count incremented -> 4 (new: FACE-8e8157a8)
+2026-10-03 00:02:02 | INFO     | face_tracker | ENTRY event | face_id=FACE-8e8157a8 track_id=7 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-8e8157a8_20261003_000202_273153.jpg
+2026-10-03 00:02:06 | INFO     | face_tracker | Registered new face FACE-c7eede96 (image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\registered_faces\FACE-c7eede96_20261003_000206_347881.jpg)
+2026-10-03 00:02:06 | INFO     | face_tracker | Auto-registered new face: FACE-c7eede96
+2026-10-03 00:02:06 | INFO     | face_tracker | Unique visitor count incremented -> 5 (new: FACE-c7eede96)
+2026-10-03 00:02:06 | INFO     | face_tracker | ENTRY event | face_id=FACE-c7eede96 track_id=8 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-c7eede96_20261003_000206_372629.jpg
+2026-10-03 00:02:09 | INFO     | face_tracker | Registered new face FACE-1c76bc5d (image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\registered_faces\FACE-1c76bc5d_20261003_000208_960852.jpg)
+2026-10-03 00:02:09 | INFO     | face_tracker | Auto-registered new face: FACE-1c76bc5d
+2026-10-03 00:02:09 | INFO     | face_tracker | Unique visitor count incremented -> 6 (new: FACE-1c76bc5d)
+2026-10-03 00:02:09 | INFO     | face_tracker | ENTRY event | face_id=FACE-1c76bc5d track_id=6 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-1c76bc5d_20261003_000209_022694.jpg
+2026-10-03 00:02:11 | INFO     | face_tracker | EXIT event | face_id=FACE-1c76bc5d track_id=6 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-1c76bc5d_20261003_000211_283963.jpg
+2026-10-03 00:02:11 | INFO     | face_tracker | EXIT event | face_id=FACE-c7eede96 track_id=8 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-c7eede96_20261003_000211_494099.jpg
+2026-10-03 00:02:11 | INFO     | face_tracker | EXIT event | face_id=FACE-8e8157a8 track_id=7 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-8e8157a8_20261003_000211_622896.jpg
+2026-10-03 00:02:20 | INFO     | face_tracker | Registered new face FACE-12d43106 (image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\registered_faces\FACE-12d43106_20261003_000220_653378.jpg)
+2026-10-03 00:02:20 | INFO     | face_tracker | Auto-registered new face: FACE-12d43106
+2026-10-03 00:02:20 | INFO     | face_tracker | Unique visitor count incremented -> 7 (new: FACE-12d43106)
+2026-10-03 00:02:20 | INFO     | face_tracker | ENTRY event | face_id=FACE-12d43106 track_id=9 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-12d43106_20261003_000220_670733.jpg
+2026-10-03 00:02:26 | INFO     | face_tracker | EXIT event | face_id=FACE-12d43106 track_id=9 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-12d43106_20261003_000226_099361.jpg
+2026-10-03 00:02:26 | INFO     | face_tracker | No more frames / stream ended.
+2026-10-03 00:02:26 | INFO     | face_tracker | Video source released.
+2026-10-03 00:02:26 | INFO     | face_tracker | === Session summary: unique_visitors=7 entries=7 exits=7 ===
+2026-10-03 00:06:21 | INFO     | face_tracker | Logging initialized -> C:\Users\Admin\AppData\Local\Cline\face_tracker_project\events.log
+2026-10-03 00:06:21 | INFO     | face_tracker | Database schema ready at C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\reid_test.db
+2026-10-03 00:06:27 | INFO     | face_tracker | YOLO face detector loaded from C:\Users\Admin\AppData\Local\Cline\face_tracker_project\models\yolov8n-face.pt (device=cpu)
+2026-10-03 00:06:35 | INFO     | face_tracker | InsightFace recognizer loaded (model=buffalo_l)
+2026-10-03 00:06:35 | INFO     | face_tracker | Opening video source (file): C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\reid_sample.mp4
+2026-10-03 00:06:35 | INFO     | face_tracker | === Face tracker started ===
+2026-10-03 00:06:45 | INFO     | face_tracker | Registered new face FACE-5070d27a (image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\registered_faces\FACE-5070d27a_20261003_000645_556391.jpg)
+2026-10-03 00:06:45 | INFO     | face_tracker | Auto-registered new face: FACE-5070d27a
+2026-10-03 00:06:45 | INFO     | face_tracker | Unique visitor count incremented -> 1 (new: FACE-5070d27a)
+2026-10-03 00:06:45 | INFO     | face_tracker | ENTRY event | face_id=FACE-5070d27a track_id=1 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-5070d27a_20261003_000645_588199.jpg
+2026-10-03 00:06:49 | INFO     | face_tracker | Registered new face FACE-696977f9 (image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\registered_faces\FACE-696977f9_20261003_000649_560725.jpg)
+2026-10-03 00:06:49 | INFO     | face_tracker | Auto-registered new face: FACE-696977f9
+2026-10-03 00:06:49 | INFO     | face_tracker | Unique visitor count incremented -> 2 (new: FACE-696977f9)
+2026-10-03 00:06:49 | INFO     | face_tracker | ENTRY event | face_id=FACE-696977f9 track_id=2 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-696977f9_20261003_000649_586943.jpg
+2026-10-03 00:06:54 | INFO     | face_tracker | EXIT event | face_id=FACE-5070d27a track_id=1 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-5070d27a_20261003_000654_029688.jpg
+2026-10-03 00:06:54 | INFO     | face_tracker | EXIT event | face_id=FACE-696977f9 track_id=2 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-696977f9_20261003_000654_178345.jpg
+2026-10-03 00:07:02 | INFO     | face_tracker | Re-identified existing face FACE-5070d27a (sim=0.768) on track 3
+2026-10-03 00:07:02 | INFO     | face_tracker | ENTRY event | face_id=FACE-5070d27a track_id=3 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-5070d27a_20261003_000702_488546.jpg
+2026-10-03 00:07:06 | INFO     | face_tracker | Re-identified existing face FACE-696977f9 (sim=0.890) on track 4
+2026-10-03 00:07:06 | INFO     | face_tracker | ENTRY event | face_id=FACE-696977f9 track_id=4 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-696977f9_20261003_000706_896311.jpg
+2026-10-03 00:07:31 | INFO     | face_tracker | EXIT event | face_id=FACE-5070d27a track_id=3 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-5070d27a_20261003_000731_829934.jpg
+2026-10-03 00:07:32 | INFO     | face_tracker | EXIT event | face_id=FACE-696977f9 track_id=4 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-696977f9_20261003_000732_002244.jpg
+2026-10-03 00:07:32 | INFO     | face_tracker | No more frames / stream ended.
+2026-10-03 00:07:32 | INFO     | face_tracker | Video source released.
+2026-10-03 00:07:32 | INFO     | face_tracker | === Session summary: unique_visitors=2 entries=4 exits=4 ===
+2026-10-03 00:26:15 | INFO     | face_tracker | Logging initialized -> C:\Users\Admin\AppData\Local\Cline\face_tracker_project\events.log
+2026-10-03 00:26:15 | INFO     | face_tracker | Database schema ready at C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\face_tracker.db
+2026-10-03 00:26:27 | INFO     | face_tracker | YOLO face detector loaded from C:\Users\Admin\AppData\Local\Cline\face_tracker_project\models\yolov8n-face.pt (device=cpu)
+2026-10-03 00:26:44 | INFO     | face_tracker | InsightFace recognizer loaded (model=buffalo_l)
+2026-10-03 00:26:44 | INFO     | face_tracker | Opening video source (file): C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\sample_video.mp4
+2026-10-03 00:26:44 | INFO     | face_tracker | === Face tracker started ===
+2026-10-03 00:26:57 | INFO     | face_tracker | Re-identified existing face FACE-f9d5291f (sim=1.000) on track 1
+2026-10-03 00:26:57 | INFO     | face_tracker | ENTRY event | face_id=FACE-f9d5291f track_id=1 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-f9d5291f_20261003_002657_517977.jpg
+2026-10-03 00:27:02 | INFO     | face_tracker | EXIT event | face_id=FACE-f9d5291f track_id=1 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-f9d5291f_20261003_002702_699406.jpg
+2026-10-03 00:27:11 | INFO     | face_tracker | Re-identified existing face FACE-42855f8a (sim=1.000) on track 3
+2026-10-03 00:27:11 | INFO     | face_tracker | ENTRY event | face_id=FACE-42855f8a track_id=3 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-42855f8a_20261003_002711_397449.jpg
+2026-10-03 00:27:14 | INFO     | face_tracker | Re-identified existing face FACE-e0a4bb26 (sim=1.000) on track 2
+2026-10-03 00:27:14 | INFO     | face_tracker | ENTRY event | face_id=FACE-e0a4bb26 track_id=2 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-e0a4bb26_20261003_002714_467961.jpg
+2026-10-03 00:27:40 | INFO     | face_tracker | EXIT event | face_id=FACE-e0a4bb26 track_id=2 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-e0a4bb26_20261003_002740_348172.jpg
+2026-10-03 00:27:41 | INFO     | face_tracker | EXIT event | face_id=FACE-42855f8a track_id=3 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-42855f8a_20261003_002741_087027.jpg
+2026-10-03 00:27:53 | INFO     | face_tracker | Re-identified existing face FACE-8e8157a8 (sim=1.000) on track 7
+2026-10-03 00:27:53 | INFO     | face_tracker | ENTRY event | face_id=FACE-8e8157a8 track_id=7 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-8e8157a8_20261003_002753_148045.jpg
+2026-10-03 00:27:56 | INFO     | face_tracker | Re-identified existing face FACE-c7eede96 (sim=1.000) on track 8
+2026-10-03 00:27:56 | INFO     | face_tracker | ENTRY event | face_id=FACE-c7eede96 track_id=8 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-c7eede96_20261003_002756_828101.jpg
+2026-10-03 00:28:00 | INFO     | face_tracker | Re-identified existing face FACE-1c76bc5d (sim=1.000) on track 6
+2026-10-03 00:28:00 | INFO     | face_tracker | ENTRY event | face_id=FACE-1c76bc5d track_id=6 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-1c76bc5d_20261003_002800_302381.jpg
+2026-10-03 00:28:03 | INFO     | face_tracker | EXIT event | face_id=FACE-1c76bc5d track_id=6 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-1c76bc5d_20261003_002803_793278.jpg
+2026-10-03 00:28:04 | INFO     | face_tracker | EXIT event | face_id=FACE-c7eede96 track_id=8 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-c7eede96_20261003_002804_368138.jpg
+2026-10-03 00:28:04 | INFO     | face_tracker | EXIT event | face_id=FACE-8e8157a8 track_id=7 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-8e8157a8_20261003_002804_714874.jpg
+2026-10-03 00:28:14 | INFO     | face_tracker | Re-identified existing face FACE-12d43106 (sim=1.000) on track 9
+2026-10-03 00:28:14 | INFO     | face_tracker | ENTRY event | face_id=FACE-12d43106 track_id=9 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-12d43106_20261003_002814_007015.jpg
+2026-10-03 00:28:18 | INFO     | face_tracker | EXIT event | face_id=FACE-12d43106 track_id=9 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-12d43106_20261003_002818_240404.jpg
+2026-10-03 00:28:18 | INFO     | face_tracker | No more frames / stream ended.
+2026-10-03 00:28:18 | INFO     | face_tracker | Video source released.
+2026-10-03 00:28:18 | INFO     | face_tracker | === Session summary: unique_visitors=7 entries=14 exits=14 ===
+2026-10-03 00:28:28 | INFO     | face_tracker | Logging initialized -> C:\Users\Admin\AppData\Local\Cline\face_tracker_project\events.log
+2026-10-03 00:28:28 | INFO     | face_tracker | Database schema ready at C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\reid_test.db
+2026-10-03 00:28:33 | INFO     | face_tracker | YOLO face detector loaded from C:\Users\Admin\AppData\Local\Cline\face_tracker_project\models\yolov8n-face.pt (device=cpu)
+2026-10-03 00:28:40 | INFO     | face_tracker | InsightFace recognizer loaded (model=buffalo_l)
+2026-10-03 00:28:40 | INFO     | face_tracker | Opening video source (file): C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\reid_sample.mp4
+2026-10-03 00:28:40 | INFO     | face_tracker | === Face tracker started ===
+2026-10-03 00:28:49 | INFO     | face_tracker | Re-identified existing face FACE-5070d27a (sim=1.000) on track 1
+2026-10-03 00:28:49 | INFO     | face_tracker | ENTRY event | face_id=FACE-5070d27a track_id=1 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-5070d27a_20261003_002849_511026.jpg
+2026-10-03 00:28:53 | INFO     | face_tracker | Re-identified existing face FACE-696977f9 (sim=1.000) on track 2
+2026-10-03 00:28:53 | INFO     | face_tracker | ENTRY event | face_id=FACE-696977f9 track_id=2 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-696977f9_20261003_002853_339164.jpg
+2026-10-03 00:28:57 | INFO     | face_tracker | EXIT event | face_id=FACE-5070d27a track_id=1 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-5070d27a_20261003_002857_138636.jpg
+2026-10-03 00:28:57 | INFO     | face_tracker | EXIT event | face_id=FACE-696977f9 track_id=2 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-696977f9_20261003_002857_308014.jpg
+2026-10-03 00:29:05 | INFO     | face_tracker | Re-identified existing face FACE-5070d27a (sim=0.768) on track 3
+2026-10-03 00:29:05 | INFO     | face_tracker | ENTRY event | face_id=FACE-5070d27a track_id=3 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-5070d27a_20261003_002905_383244.jpg
+2026-10-03 00:29:09 | INFO     | face_tracker | Re-identified existing face FACE-696977f9 (sim=0.890) on track 4
+2026-10-03 00:29:09 | INFO     | face_tracker | ENTRY event | face_id=FACE-696977f9 track_id=4 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-696977f9_20261003_002909_020940.jpg
+2026-10-03 00:29:33 | INFO     | face_tracker | EXIT event | face_id=FACE-5070d27a track_id=3 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-5070d27a_20261003_002933_800357.jpg
+2026-10-03 00:29:34 | INFO     | face_tracker | EXIT event | face_id=FACE-696977f9 track_id=4 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-696977f9_20261003_002934_197792.jpg
+2026-10-03 00:29:35 | INFO     | face_tracker | No more frames / stream ended.
+2026-10-03 00:29:35 | INFO     | face_tracker | Video source released.
+2026-10-03 00:29:35 | INFO     | face_tracker | === Session summary: unique_visitors=2 entries=8 exits=8 ===
+2026-10-03 00:35:42 | INFO     | face_tracker | Logging initialized -> C:\Users\Admin\AppData\Local\Cline\face_tracker_project\events.log
+2026-10-03 00:35:42 | INFO     | face_tracker | Database schema ready at C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\face_tracker.db
+2026-10-03 00:35:47 | INFO     | face_tracker | YOLO face detector loaded from C:\Users\Admin\AppData\Local\Cline\face_tracker_project\models\yolov8n-face.pt (device=cpu)
+2026-10-03 00:35:54 | INFO     | face_tracker | InsightFace recognizer loaded (model=buffalo_l)
+2026-10-03 00:35:54 | INFO     | face_tracker | Opening video source (file): C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\sample_video.mp4
+2026-10-03 00:35:54 | INFO     | face_tracker | === Face tracker started ===
+2026-10-03 00:36:07 | INFO     | face_tracker | Re-identified existing face FACE-f9d5291f (sim=1.000) on track 1
+2026-10-03 00:36:07 | INFO     | face_tracker | ENTRY event | face_id=FACE-f9d5291f track_id=1 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-f9d5291f_20261003_003607_564011.jpg
+2026-10-03 00:36:13 | INFO     | face_tracker | EXIT event | face_id=FACE-f9d5291f track_id=1 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-f9d5291f_20261003_003613_471020.jpg
+2026-10-03 00:36:22 | INFO     | face_tracker | Re-identified existing face FACE-42855f8a (sim=1.000) on track 3
+2026-10-03 00:36:22 | INFO     | face_tracker | ENTRY event | face_id=FACE-42855f8a track_id=3 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-42855f8a_20261003_003622_970824.jpg
+2026-10-03 00:36:26 | INFO     | face_tracker | Re-identified existing face FACE-e0a4bb26 (sim=1.000) on track 2
+2026-10-03 00:36:26 | INFO     | face_tracker | ENTRY event | face_id=FACE-e0a4bb26 track_id=2 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-e0a4bb26_20261003_003626_645692.jpg
+2026-10-03 00:36:52 | INFO     | face_tracker | EXIT event | face_id=FACE-e0a4bb26 track_id=2 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-e0a4bb26_20261003_003652_483236.jpg
+2026-10-03 00:36:53 | INFO     | face_tracker | EXIT event | face_id=FACE-42855f8a track_id=3 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-42855f8a_20261003_003653_670678.jpg
+2026-10-03 00:37:07 | INFO     | face_tracker | Re-identified existing face FACE-8e8157a8 (sim=1.000) on track 7
+2026-10-03 00:37:07 | INFO     | face_tracker | ENTRY event | face_id=FACE-8e8157a8 track_id=7 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-8e8157a8_20261003_003707_616290.jpg
+2026-10-03 00:37:11 | INFO     | face_tracker | Re-identified existing face FACE-c7eede96 (sim=1.000) on track 8
+2026-10-03 00:37:11 | INFO     | face_tracker | ENTRY event | face_id=FACE-c7eede96 track_id=8 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-c7eede96_20261003_003711_690751.jpg
+2026-10-03 00:37:15 | INFO     | face_tracker | Re-identified existing face FACE-1c76bc5d (sim=1.000) on track 6
+2026-10-03 00:37:15 | INFO     | face_tracker | ENTRY event | face_id=FACE-1c76bc5d track_id=6 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-1c76bc5d_20261003_003715_902368.jpg
+2026-10-03 00:37:20 | INFO     | face_tracker | EXIT event | face_id=FACE-1c76bc5d track_id=6 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-1c76bc5d_20261003_003720_183828.jpg
+2026-10-03 00:37:20 | INFO     | face_tracker | EXIT event | face_id=FACE-c7eede96 track_id=8 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-c7eede96_20261003_003720_858934.jpg
+2026-10-03 00:37:21 | INFO     | face_tracker | EXIT event | face_id=FACE-8e8157a8 track_id=7 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-8e8157a8_20261003_003721_293863.jpg
+2026-10-03 00:37:31 | INFO     | face_tracker | Re-identified existing face FACE-12d43106 (sim=1.000) on track 9
+2026-10-03 00:37:31 | INFO     | face_tracker | ENTRY event | face_id=FACE-12d43106 track_id=9 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-12d43106_20261003_003731_866673.jpg
+2026-10-03 00:37:36 | INFO     | face_tracker | EXIT event | face_id=FACE-12d43106 track_id=9 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-12d43106_20261003_003736_416142.jpg
+2026-10-03 00:37:36 | INFO     | face_tracker | No more frames / stream ended.
+2026-10-03 00:37:36 | INFO     | face_tracker | Video source released.
+2026-10-03 00:37:36 | INFO     | face_tracker | === Session summary: unique_visitors=7 entries=21 exits=21 ===
+2026-10-03 00:40:33 | INFO     | face_tracker | Logging initialized -> C:\Users\Admin\AppData\Local\Cline\face_tracker_project\events.log
+2026-10-03 00:40:33 | INFO     | face_tracker | Database schema ready at C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\reid_test.db
+2026-10-03 00:40:38 | INFO     | face_tracker | YOLO face detector loaded from C:\Users\Admin\AppData\Local\Cline\face_tracker_project\models\yolov8n-face.pt (device=cpu)
+2026-10-03 00:40:44 | INFO     | face_tracker | InsightFace recognizer loaded (model=buffalo_l)
+2026-10-03 00:40:44 | INFO     | face_tracker | Opening video source (file): C:\Users\Admin\AppData\Local\Cline\face_tracker_project\data\reid_sample.mp4
+2026-10-03 00:40:44 | INFO     | face_tracker | === Face tracker started ===
+2026-10-03 00:40:51 | INFO     | face_tracker | Re-identified existing face FACE-5070d27a (sim=1.000) on track 1
+2026-10-03 00:40:51 | INFO     | face_tracker | ENTRY event | face_id=FACE-5070d27a track_id=1 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-5070d27a_20261003_004051_742389.jpg
+2026-10-03 00:40:54 | INFO     | face_tracker | Re-identified existing face FACE-696977f9 (sim=1.000) on track 2
+2026-10-03 00:40:54 | INFO     | face_tracker | ENTRY event | face_id=FACE-696977f9 track_id=2 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-696977f9_20261003_004054_973201.jpg
+2026-10-03 00:40:58 | INFO     | face_tracker | EXIT event | face_id=FACE-5070d27a track_id=1 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-5070d27a_20261003_004058_423552.jpg
+2026-10-03 00:40:58 | INFO     | face_tracker | EXIT event | face_id=FACE-696977f9 track_id=2 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-696977f9_20261003_004058_559044.jpg
+2026-10-03 00:41:05 | INFO     | face_tracker | Re-identified existing face FACE-5070d27a (sim=0.768) on track 3
+2026-10-03 00:41:05 | INFO     | face_tracker | ENTRY event | face_id=FACE-5070d27a track_id=3 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-5070d27a_20261003_004105_301922.jpg
+2026-10-03 00:41:09 | INFO     | face_tracker | Re-identified existing face FACE-696977f9 (sim=0.890) on track 4
+2026-10-03 00:41:09 | INFO     | face_tracker | ENTRY event | face_id=FACE-696977f9 track_id=4 new_registration=False image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\entries\2026-10-03\FACE-696977f9_20261003_004109_390569.jpg
+2026-10-03 00:41:29 | INFO     | face_tracker | EXIT event | face_id=FACE-5070d27a track_id=3 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-5070d27a_20261003_004129_126291.jpg
+2026-10-03 00:41:29 | INFO     | face_tracker | EXIT event | face_id=FACE-696977f9 track_id=4 image=C:\Users\Admin\AppData\Local\Cline\face_tracker_project\logs\exits\2026-10-03\FACE-696977f9_20261003_004129_261620.jpg
+2026-10-03 00:41:29 | INFO     | face_tracker | No more frames / stream ended.
+2026-10-03 00:41:29 | INFO     | face_tracker | Video source released.
+2026-10-03 00:41:29 | INFO     | face_tracker | === Session summary: unique_visitors=2 entries=12 exits=12 ===
